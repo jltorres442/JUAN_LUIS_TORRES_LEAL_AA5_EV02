@@ -1,0 +1,6 @@
+{
+    "exito": false,
+    "codigo": 400,
+    "mensaje": "Los campos 'usuario' y 'contrasena' son obligatorios",
+    "fechaHora": "2026-10-22T21:21:31-05:00"
+}

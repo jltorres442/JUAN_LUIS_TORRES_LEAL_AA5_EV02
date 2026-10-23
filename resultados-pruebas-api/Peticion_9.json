@@ -1,0 +1,13 @@
+{
+    "exito": true,
+    "codigo": 200,
+    "mensaje": "Autenticación satisfactoria",
+    "datos": {
+        "idUsuario": 4,
+        "usuario": "angela.prueba",
+        "nombreCompleto": "Angela Prueba",
+        "correoElectronico": "prueba@correo.com",
+        "ultimoAcceso": null
+    },
+    "fechaHora": "2026-10-22T21:25:44-05:00"
+}

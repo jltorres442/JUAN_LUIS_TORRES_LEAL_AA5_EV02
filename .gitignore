@@ -1,0 +1,7 @@
+# Servicio Web de Autenticación (PHP) - Juan Luis Torres Leal / Angela María Constain Escobar
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+*.sqlite
+.vscode/
+.idea/

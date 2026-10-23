@@ -1,0 +1,6 @@
+{
+    "exito": false,
+    "codigo": 409,
+    "mensaje": "El usuario 'jtorres' ya existe",
+    "fechaHora": "2026-10-22T21:26:29-05:00"
+}

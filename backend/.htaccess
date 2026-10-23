@@ -1,0 +1,21 @@
+# =============================================================================
+# Proyecto : Servicio Web de Autenticación (PHP) - Apache / XAMPP
+# Autores  : Juan Luis Torres Leal / Angela María Constain Escobar
+# =============================================================================
+
+Options -Indexes
+AddDefaultCharset UTF-8
+
+# Permite llamar los endpoints sin la extensión .php
+#   /api/autenticacion/iniciar-sesion  ->  /api/autenticacion/iniciar-sesion.php
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^(.+)$ $1.php [L]
+</IfModule>
+
+# Ningún archivo interno debe descargarse desde el navegador
+<FilesMatch "^(arranque\.php|enrutador\.php)$">
+    Require all denied
+</FilesMatch>

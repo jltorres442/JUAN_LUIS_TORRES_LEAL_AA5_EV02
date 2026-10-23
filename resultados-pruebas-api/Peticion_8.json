@@ -1,0 +1,13 @@
+{
+    "exito": true,
+    "codigo": 201,
+    "mensaje": "Usuario registrado correctamente",
+    "datos": {
+        "idUsuario": 4,
+        "usuario": "angela.prueba",
+        "nombreCompleto": "Angela Prueba",
+        "correoElectronico": "prueba@correo.com",
+        "ultimoAcceso": null
+    },
+    "fechaHora": "2026-10-22T21:24:39-05:00"
+}

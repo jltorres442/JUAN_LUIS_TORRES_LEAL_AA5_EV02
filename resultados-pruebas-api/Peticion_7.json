@@ -1,0 +1,6 @@
+{
+    "exito": false,
+    "codigo": 405,
+    "mensaje": "Método GET no permitido en /servicio-autenticacion/api/autenticacion/iniciar-sesion.php",
+    "fechaHora": "2026-10-22T21:23:18-05:00"
+}

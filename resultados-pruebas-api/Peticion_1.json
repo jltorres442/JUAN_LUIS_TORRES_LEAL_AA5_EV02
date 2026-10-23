@@ -1,0 +1,19 @@
+{
+    "exito": true,
+    "codigo": 200,
+    "mensaje": "Servicio en línea y base de datos conectada",
+    "datos": {
+        "servicio": "Servicio Web de Autenticación",
+        "version": "1.0.0",
+        "autores": [
+            "Juan Luis Torres Leal",
+            "Angela María Constain Escobar"
+        ],
+        "versionPhp": "8.2.12",
+        "perfilBaseDatos": "mysql",
+        "estrategiaAcceso": "pdo",
+        "motorBaseDatos": "mysql 10.4.32-MariaDB",
+        "usuariosRegistrados": 3
+    },
+    "fechaHora": "2026-10-22T21:17:54-05:00"
+}

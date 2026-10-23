@@ -1,0 +1,13 @@
+{
+    "exito": true,
+    "codigo": 200,
+    "mensaje": "Autenticación satisfactoria",
+    "datos": {
+        "idUsuario": 1,
+        "usuario": "jtorres",
+        "nombreCompleto": "Juan Luis Torres Leal",
+        "correoElectronico": "juan.torres@correo.com",
+        "ultimoAcceso": null
+    },
+    "fechaHora": "2026-10-22T21:18:48-05:00"
+}
